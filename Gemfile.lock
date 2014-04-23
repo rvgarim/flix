@@ -80,6 +80,7 @@ GEM
     multi_json (1.9.2)
     nokogiri (1.6.1)
       mini_portile (~> 0.5.0)
+    pg (0.17.1)
     polyglot (0.3.4)
     rack (1.5.2)
     rack-contrib (1.1.0)
@@ -159,6 +160,7 @@ DEPENDENCIES
   jbuilder (~> 1.2)
   jquery-rails
   meta_request
+  pg
   rails (= 4.0.0)
   rspec-rails (= 2.13.1)
   sass-rails (~> 4.0.0)
