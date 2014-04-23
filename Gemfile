@@ -43,7 +43,8 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'paperclip'
+gem 'aws-sdk'
 group :test, :development do
   gem "rspec-rails", "2.13.1"
   gem 'sqlite3'
